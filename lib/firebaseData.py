@@ -15,7 +15,7 @@ from lib.utility.Singleton import Singleton
 
 # Firebase Config data
 firebaseConfig = {
-    'apiKey': "AIzaSyA5N-gyqRJ3vnMOg_3AEqElp2Kcp3AM2Tg",
+    'apiKey': "",
     'authDomain': "provapython-3172a.firebaseapp.com",
     'databaseURL': "https://provapython-3172a-default-rtdb.europe-west1.firebasedatabase.app/",
     'projectId': "provapython-3172a",
